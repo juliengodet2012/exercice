@@ -10,7 +10,7 @@ This repository will be enriched over time with more visualizations and more dis
 
 ## Available visualizations
 ### Mathematics
-
+- [julien](https://hub.mybinder.org/user/juliengodet2012-exercice-6g8q3o8k/notebooks/Central%20limit%20theorem.ipynb)
 - [The central limit theorem](https://mybinder.org/v2/gh/giovannipizzi/educational-scientific-visualizations/master?urlpath=%2Fapps%2Fcentral-limit-theorem%2FCentral%20limit%20theorem.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/giovannipizzi/educational-scientific-visualizations/master?urlpath=%2Fapps%2Fcentral-limit-theorem%2FCentral%20limit%20theorem.ipynb)
 
 ### Physics
